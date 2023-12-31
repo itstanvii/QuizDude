@@ -1,0 +1,14 @@
+
+footer .r-icon a{
+    display: flex;
+    font-size:20px;
+    color:#848484;
+    padding: 10px;
+    border: 1px solid #848484;
+    border-radius:50%;
+}
+footer .r-icon a:hover{
+    border:1px solid #eee;
+    color: #eee;
+    transition: .5s all;
+}

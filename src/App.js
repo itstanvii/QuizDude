@@ -11,7 +11,7 @@ import quiz1 from "./assets/ques1.png";
 
 function App() {
   const [name, setName] = useState("");
-  const [questions, setQuestions] = useState();
+  const [questions, setQuestions] = useState(null);
   const [score, setScore] = useState(0);
 
   const fetchQuestions = async (category = "", difficulty = "") => {
