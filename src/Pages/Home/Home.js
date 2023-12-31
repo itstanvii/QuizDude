@@ -4,6 +4,7 @@ import { useState } from "react";
 import { useHistory } from "react-router";
 import ErrorMessage from "../../components/ErrorMessage/ErrorMessage";
 import Categories from "../../Data/Categories";
+import quizsvg from "../../assets/quiz.svg";
 
 const Home = ({ name, setName, fetchQuestions }) => {
   const [category, setCategory] = useState("");
@@ -77,7 +78,7 @@ const Home = ({ name, setName, fetchQuestions }) => {
         </div>
       </div>
 
-      <img src="/quiz.svg" className="banner" alt="quiz img" />
+      <img src={quizsvg} className="banner" alt="quiz img" />
     </div>
   );
 };

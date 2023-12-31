@@ -7,6 +7,7 @@ import Footer from "./components/Footer/Footer";
 import Home from "./Pages/Home/Home";
 import Quiz from "./Pages/Quiz/Quiz";
 import Result from "./Pages/Result/Result";
+import quiz1 from "./assets/ques1.png";
 
 function App() {
   const [name, setName] = useState("");
@@ -34,7 +35,7 @@ function App() {
 
   return (
     <BrowserRouter>
-      <div className="app" style={{ backgroundImage: "url(./ques1.png" }}>
+      <div className="app" style={{ backgroundImage: quiz1 }}>
         <Header />
         <Switch>
           <Route path="/quiz">
