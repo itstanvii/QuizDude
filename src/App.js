@@ -35,7 +35,7 @@ function App() {
 
   return (
     <BrowserRouter>
-      <div className="app" style={{ backgroundImage: quiz1 }}>
+      <div className="app" style={{ backgroundImage: `url(${quiz1})` }}>
         <Header />
         <Switch>
           <Route path="/quiz">
