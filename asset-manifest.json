@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/QuizDude/static/css/main.11b07e1c.css",
-    "main.js": "/QuizDude/static/js/main.5a95ec73.js",
+    "main.css": "/QuizDude/static/css/main.94164079.css",
+    "main.js": "/QuizDude/static/js/main.f22f6691.js",
     "static/media/ques1.png": "/QuizDude/static/media/ques1.fe1684c8e94fd85a54bf.png",
+    "static/media/tbb-removebg-preview (1).png": "/QuizDude/static/media/tbb-removebg-preview (1).5083985e17bb1a55e11c.png",
     "static/media/quiz.svg": "/QuizDude/static/media/quiz.afa68be9a8a0b12c15ad55c85a20f273.svg",
     "index.html": "/QuizDude/index.html",
-    "main.11b07e1c.css.map": "/QuizDude/static/css/main.11b07e1c.css.map",
-    "main.5a95ec73.js.map": "/QuizDude/static/js/main.5a95ec73.js.map"
+    "main.94164079.css.map": "/QuizDude/static/css/main.94164079.css.map",
+    "main.f22f6691.js.map": "/QuizDude/static/js/main.f22f6691.js.map"
   },
   "entrypoints": [
-    "static/css/main.11b07e1c.css",
-    "static/js/main.5a95ec73.js"
+    "static/css/main.94164079.css",
+    "static/js/main.f22f6691.js"
   ]
 }
