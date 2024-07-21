@@ -27,7 +27,7 @@ class Header extends Component {
                   </a>
                 </li>
                 <li>
-                  <a href="">About</a>
+                  <a href="">Abooooout</a>
                 </li>
                 <li>
                   <a href="">Problems</a>
